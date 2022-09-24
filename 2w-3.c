@@ -2,7 +2,7 @@
 #include <math.h>
 #include <string.h>
 
-// πÈ¡ÿ 1864
+// Î∞±Ï§Ä 1864
 
 int change(char a);
 
