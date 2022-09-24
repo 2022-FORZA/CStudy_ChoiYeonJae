@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// ¹éÁØ 3273
+// 백준 3273
 
 int compare(const void *a, const void *b);
 int binarySearch(int arr[], int n, int find);
