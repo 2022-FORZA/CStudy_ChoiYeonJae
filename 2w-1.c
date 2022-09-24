@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// ¹éÁØ 3273
+// Â¹Ã©ÃÃ˜ 3273
 
 int compare(const void *a, const void *b);
 int binarySearch(int arr[], int n, int find);
@@ -23,6 +23,7 @@ int main()
 	}
 
 	printf("%d", count/2);
+	free(arr);
 	return 0;
 }
 
