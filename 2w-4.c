@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// πÈ¡ÿ 2577
+// Î∞±Ï§Ä 2577
 
 int main()
 {
