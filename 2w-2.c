@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// πÈ¡ÿ 10866
+// Î∞±Ï§Ä 10866
 
 int deque[10001] = {0,};
 
