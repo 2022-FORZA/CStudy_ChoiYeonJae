@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 가지고 있는 카드 개수 출력 프로그램
+// baekjoon 10815
 
 int compare(const void* a, const void* b);
 int findMax(int arr[], int find);
